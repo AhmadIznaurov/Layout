@@ -24,3 +24,4 @@ const Header = () => {
 
 export default  Header;
 
+// example writing is here for checking how to work this system after create new repository
